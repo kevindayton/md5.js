@@ -2,6 +2,7 @@
 *
 *  MD5 (Message-Digest Algorithm)
 *  http://www.webtoolkit.info/
+*  http://creativecommons.org/licenses/by/2.0/uk/legalcode
 *
 **/
 
